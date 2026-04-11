@@ -1,0 +1,11 @@
+﻿AurelRune导入器     1.2.2版本更新公告
+-修改导入逻辑
+-删除了区块预加载
+-增加了多种导入模式（推荐使用兼容模式）
+-修改了导入路径规划
+-删除导入前预处理文件
+【交流群】975658441
+【下载地址】https://aurelrune.ltcom.xyz/app/download
+【github地址】https://github.com/LangTuStudio/AurelRune-Release
+【广告位】购买codex找我，5块10刀
+<面板商自行拉取最新可执行文件>
