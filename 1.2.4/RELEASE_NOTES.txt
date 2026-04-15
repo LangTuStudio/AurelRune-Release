@@ -1,0 +1,16 @@
+﻿AurelRune导入器 1.2.4版本更新公告
+
+- 支持为 `builder`、`builder2`、`nbt` 分别配置独立认证服地址，避免继续共用单一认证入口
+- 修复启动界面与更新元数据仍显示 `1.2.3` 的版本号错误，统一更新为 `1.2.4`
+- 修复 `build-release-fast.ps1` 与 `build-quick-all.ps1` 在缺少 `build-python-helpers.py` 和 `.helper-bundles` 时默认构建直接失败的问题，改为安全跳过 helper bundle
+- 清理发版垃圾目录忽略规则，并补充发布目录整理脚本，统一生成 `AurelRune-Release/<版本>/RELEASE_NOTES.txt`
+
+〖交流群〗975658441
+
+〖下载地址〗https://aurelrune.ltcom.xyz/app/download
+
+〖github地址〗https://github.com/LangTuStudio/AurelRune-Release
+
+〖广告位〗购买codex找我，5块10刀
+
+<面板商自行拉取最新可执行文件>
